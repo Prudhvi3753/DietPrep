@@ -47,7 +47,7 @@ nav a:hover{
     background-position:top center;
 }
 .hero-content h1 {
-    color: #39FF14; /* neon green or any bright color */
+    color: #39FF14; 
     text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 30px #39FF14;
 }
 .hero-content p{
